@@ -9,6 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="41"/>
   <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" title="DBeaver" alt="DBeaver" width="47"/>
   <img src="https://img.icons8.com/?size=512&id=38561&format=png" title="pgAdmin" alt="pgAdmin" width="48"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=avif&w=256" title="Postman" alt="Postman" width="42"/>
 </div>
   
 #### 💻 Образование
@@ -19,15 +20,15 @@
 | «Синергия» / Информационный менеджмент                  | 09.2019 - 06.2022 |
 | Яндекс Практикум / Системный анализ                       | 06.2022 - 05.2023 |
 
-#### Контакты
+#### &#128241; Контакты
 </a>
 <a href="kristina.lyamina.95@gmail.com">
-  <code><img height="38" title="Gmail" alt="Gmail"  src="https://img.icons8.com/?size=512&id=ZsqwnJaWUi9o&format=png"></code>
+  <code><img height="39" title="Gmail" alt="Gmail"  src="https://img.icons8.com/?size=512&id=ZsqwnJaWUi9o&format=png"></code>
 </a>
 <a href="https://t.me/Kri5ta">
-  <code><img height="35" title="Telegram" alt="Telegram" src="https://cdn-icons-png.flaticon.com/512/1216/1216722.png?w=740&t=st=1684179483~exp=1684180083~hmac=3193a38bf2c07770dfcd51700d3f99ba1fda620347adfb3e58bd96fcb56e00cb"></code>
+  <code><img height="36" title="Telegram" alt="Telegram" src="https://cdn-icons-png.flaticon.com/512/1216/1216722.png?w=740&t=st=1684179483~exp=1684180083~hmac=3193a38bf2c07770dfcd51700d3f99ba1fda620347adfb3e58bd96fcb56e00cb"></code>
 </a>
 <a href="https://discord.com/users/250531752156725248">
-  <code><img height="41" title="Discord" alt="Discord"  src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png"></code>
+  <code><img height="42" title="Discord" alt="Discord"  src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png"></code>
 </a>
 
